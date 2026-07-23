@@ -1,6 +1,2 @@
 # class-collab
-i am ayah and i am excited to learn all about devops
-
-
-test push to main
-erter
+hello iam bassil , welcome to my barnch 
